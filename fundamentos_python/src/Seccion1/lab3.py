@@ -1,0 +1,18 @@
+
+# dibujo hecho a punta de print con asteriscos
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+print("  *****")
+print("  *   *")
+print("  *   *")
+print("***   ***")
+print(" *     *")
+print("  *   *")
+print("   * *")
+print("    *")
